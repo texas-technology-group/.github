@@ -1,2 +1,0 @@
-# .github
-Texas Technology Group
